@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+$mont: "Montserrat", sans-serif;
+
+body {
+  font-family: $mont;
+}
+
+%mont-default {
+  font-family: $mont;
+  -webkit-leading-trim: both;
+  -webkit-text-edge: cap;
+}
+
+%mont-14 {
+  @extend %mont-default;
+  font-size: 0.875rem;
+}
+
+%mont-16 {
+  @extend %mont-default;
+  font-size: 1rem;
+}
+
+%mont-18 {
+  @extend %mont-default;
+  font-size: 1.125rem;
+}
+
+%mont-20 {
+  @extend %mont-default;
+  font-size: 1.25rem;
+}
+
+%mont-22 {
+  @extend %mont-default;
+  font-size: 1.375rem;
+}
+
+%mont-24 {
+  @extend %mont-default;
+  font-size: 1.5rem;
+}
+
+%mont-26 {
+  @extend %mont-default;
+  font-size: 1.625rem;
+}
+
+%mont-28 {
+  @extend %mont-default;
+  font-size: 1.75rem;
+}
+
+%mont-30 {
+  @extend %mont-default;
+  font-size: 1.875rem;
+}
+
+%mont-32 {
+  @extend %mont-default;
+  font-size: 2rem;
+}
+
+%mont-48 {
+  @extend %mont-default;
+  font-size: 3rem;
+}
+
+%mont-60 {
+  @extend %mont-default;
+  font-size: 3.75rem;
+}
+
+%mont-64 {
+  @extend %mont-default;
+  font-size:4rem;
+}

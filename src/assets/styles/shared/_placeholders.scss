@@ -1,0 +1,33 @@
+%flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+%flex-js-center {
+  display: flex;
+  justify-content: center;
+}
+
+%flex-ai-center {
+  display: flex;
+  align-items: center;
+}
+
+%flex-jc-sb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+%flex-jc-sa {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+%flex-jc-se {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
