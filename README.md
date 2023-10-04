@@ -25,7 +25,7 @@
   <h3>This project is built with</h3>
     <code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
     <code><img title="REACT JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-    <code><img title="GSAP" height="25" src="readme_files/gsap.svg" /></code>
+    <code><img title="GSAP" height="25" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" /></code>
 </div>
 
 ---
