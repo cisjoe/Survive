@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" >
-  <a href="https://reactommerce.netlify.app/">survive.netlify.app</a>
+  <a href="https://survive-joe.netlify.app/">survive.netlify.app</a>
 </p>
 
 <p align="center" >
