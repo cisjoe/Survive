@@ -59,10 +59,12 @@ export default function Home() {
   const [appLoaded, setAppLoaded] = useState(false);
 
   window.addEventListener("load", () => {
-    setAppLoaded(true);
+    setAppLoaded(true); // For Loading
   });
 
   useEffect(() => {
+    setAppLoaded(true); // For Rendering
+
     // ! Variables
     let header = document.querySelector("header");
     let burger = header.querySelector(".burger");
